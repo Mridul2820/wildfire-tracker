@@ -5,3 +5,7 @@ This project is from [Traversy Media](https://www.youtube.com/watch?v=ontX4zfVqK
 ## Available Deploy on Netlify
 
 The Project can be viewd at [Netlify](https://wildfire-tracker-react.netlify.app/)
+
+## Available Deploy on Vercel
+
+The Project can be viewd at [Vercel](https://wildfire-tracker-lake.vercel.app/)
